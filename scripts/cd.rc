@@ -1,0 +1,7 @@
+cl() {
+  cd ${@}
+  ls
+}
+
+alias ..="cd .."
+alias cd..="cd .."

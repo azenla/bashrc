@@ -1,0 +1,4 @@
+screenshot() {
+  sleep 2
+  scrotpush
+}
